@@ -1,3 +1,3 @@
 # Spring directives
-    @Controller: Marca una clase como controladora.
-    
+    @Controller
+    @GetMapping("path")
