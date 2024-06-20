@@ -1,0 +1,24 @@
+# Include
+    - Auditing
+    - Configure the dependencies
+    - Data Access
+    - Devtools
+    - Health
+    - IoC
+    - JAR with Tomcat
+    - JUnit
+    - Maven
+    - Metrics
+    - Microservice
+    - MongoDB
+    - Monitoring
+    - MVC
+    - No WAR
+    - Reactive
+    - RESTful
+    - Spring Cloud
+    - Spring Data JPA
+    - Spring Framework
+    - Spring Security
+    - Testing
+    - Tomcat 10
