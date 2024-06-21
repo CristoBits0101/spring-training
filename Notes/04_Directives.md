@@ -1,3 +1,3 @@
 # Spring directives
     @Controller
-    @GetMapping("path")
+    @GetMapping("/pathname")
